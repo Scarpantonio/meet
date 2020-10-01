@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Scarpantonio/meet/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Scarpantonio/meet/static/js/main.25f3301f.chunk.js",
+    "main.js.map": "/Scarpantonio/meet/static/js/main.25f3301f.chunk.js.map",
+    "runtime-main.js": "/Scarpantonio/meet/static/js/runtime-main.5f54eb57.js",
+    "runtime-main.js.map": "/Scarpantonio/meet/static/js/runtime-main.5f54eb57.js.map",
+    "static/js/2.63d82722.chunk.js": "/Scarpantonio/meet/static/js/2.63d82722.chunk.js",
+    "static/js/2.63d82722.chunk.js.map": "/Scarpantonio/meet/static/js/2.63d82722.chunk.js.map",
+    "index.html": "/Scarpantonio/meet/index.html",
+    "precache-manifest.025ec4126a6dcbefac16642a97f4ee94.js": "/Scarpantonio/meet/precache-manifest.025ec4126a6dcbefac16642a97f4ee94.js",
+    "service-worker.js": "/Scarpantonio/meet/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Scarpantonio/meet/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.63d82722.chunk.js.LICENSE.txt": "/Scarpantonio/meet/static/js/2.63d82722.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Scarpantonio/meet/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f54eb57.js",
+    "static/js/2.63d82722.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.25f3301f.chunk.js"
+  ]
+}
